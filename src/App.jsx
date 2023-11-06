@@ -6,7 +6,7 @@ const App = () => {
 
   return (
     <div>
-      <p>Shaikh Sajed</p>
+      <p>Shaikh Sajed Ahmed</p>
       <Example1 />
     </div>
   )
